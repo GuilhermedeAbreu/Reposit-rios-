@@ -1,2 +1,3 @@
-# Reposit-rios-
-Repositórios das aulas de pensamento computacional 
+# Repositórios 
+Repositórios das aulas as de pensamento computacional 
+<p>oi,tudo bem??</p>
